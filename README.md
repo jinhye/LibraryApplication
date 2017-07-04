@@ -1,12 +1,12 @@
 # LibraryApplication
-What made?
+- What made?
 
- : Library Application in order to add, delete, edit, and search books
+   : Library Application in order to add, delete, edit, and search books
  
-What features this application has?
+- What features this application has?
 
- : Use ASP.NET Razor with MVC Pattern
+   : Use ASP.NET Razor with MVC Pattern
  
- : Page break according to the number of items
+   : Page break according to the number of items
  
- : Search by keyword
+   : Search by keyword
